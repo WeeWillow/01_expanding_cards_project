@@ -60,6 +60,7 @@ body {
 
   &.active {
     flex: 5;
+    box-shadow: inset 0px -144px 77px -27px rgba(0, 0, 0, 0.5), inset 44px 99px 110px -59px rgba(255, 255, 255, 0.55);
   }
 
   &.active h3 {
